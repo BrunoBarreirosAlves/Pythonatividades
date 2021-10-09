@@ -57,7 +57,7 @@ while True:
         print("Produto: ", produto, "Quantidade: ", quantidade, "Unidades", 'Preço', preco)
 
     if op == 3:
-         print('======================================== CATÁLOGO DE ROUPAS =========================================')
+         print('======================================== CATÁLOGO  =========================================')
          print("Produto:  ",  lista_produto[0], "  Quantidade: ",  lista_quantidade[0], "Unidades ", '  Preço', lista_preco[0])
          print("Produto:  ",  lista_produto[1], "  Quantidade: ",  lista_quantidade[1], "Unidades ", '  Preço', lista_preco[1])
          print("Produto:  ",  lista_produto[2], "  Quantidade: ",  lista_quantidade[2], "Unidades ", '  Preço', lista_preco[2])
